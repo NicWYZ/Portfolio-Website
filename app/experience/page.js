@@ -83,6 +83,13 @@ export default function Experience() {
                     <p>Intermediate</p>
                   </div>
                 </article>
+                <article>
+                  <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
+                  <div>
+                    <h3>Python</h3>
+                    <p>Learning</p>
+                  </div>
+                </article>
               </div>
             </div>
           </div>

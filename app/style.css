@@ -322,6 +322,7 @@ section{
 .details-container{
     padding: 1.5rem;
     flex: 1;
+    display: flex;
     justify-content: space-between;
     background: white;
     border-radius: 2rem;
