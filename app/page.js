@@ -49,7 +49,7 @@ export default function Home() {
         <div className="section__text">
           <p className="section__text__p1">Hello, I'm</p>
           <h1 className="title">Nicolas Zhang</h1>
-          <p className="section__text__p2">Frontent Developer</p>
+          <p className="section__text__p2">Full-Stack Developer</p>
           <div className="btn-container">
             <Link href={"./assets/resume.pdf"}>
               <button className="btn btn-color-2">Resume</button>
