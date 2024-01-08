@@ -14,7 +14,7 @@ export default function Projects() {
         <h1 className="title">Projects</h1>
         <div className="experience-details-container">
           <div className="about-containers">
-            <div className="details-container color-container">
+            <div className="img-container color-container">
               <div className="article-container">
                 <img src="./assets/Project1_screenshot.png"
                   alt="Project 1"
@@ -34,7 +34,7 @@ export default function Projects() {
                 </Link>
               </div>
             </div>
-            <div className="details-container color-container">
+            <div className="img-container color-container">
               <div className="article-container">
                 <img src="./assets/spotify_screenshot.png"
                   alt="Project 2"
@@ -54,7 +54,7 @@ export default function Projects() {
                 </Link>
               </div>
             </div>
-            <div className="details-container color-container">
+            <div className="img-container color-container">
               <div className="article-container">
                 <img src="./assets/project-3.png"
                   alt="Project 3"
