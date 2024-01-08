@@ -11,7 +11,7 @@ export default function About() {
   const [data, setData] = useState({});
 
   useEffect(() => {
-    fetch("http://localhost:3000/about/kanye")
+    fetch("https://portfolio-website-ochre-pi.vercel.app/about/kanye")
       .then(res => res.json())
       .then(data => setData(data));
   }, []);

@@ -60,7 +60,7 @@ export default function Home() {
           </div>
           
           <div id="social-container">
-            <Link href={"https://linkedin.com/in/weiyang-zhang-2a559821b"}>
+            <Link href={"https://www.linkedin.com/in/nicolas-zhang-2a559821b/"}>
               <img src="./assets/linkedin.png" alt="My LinkedIn Profile" className="icon"/>
             </Link>
             <Link href={"https://github.com/NicWYZ"}>

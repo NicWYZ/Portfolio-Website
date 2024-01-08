@@ -20,7 +20,7 @@ export default function Projects() {
                   alt="Project 1"
                   className="project-img" />
               </div>
-              <h2 className="experience-sub-title project-title">Project One</h2>
+              <h2 className="experience-sub-title project-title">Agricultural Simulator</h2>
               <div className="btn-container">
                 <Link href={"https://github.com/MHGamingINC/AgriculturalWaterUsage.git"}>
                   <button className="btn btn-color-2 project-btn">
@@ -36,18 +36,18 @@ export default function Projects() {
             </div>
             <div className="details-container color-container">
               <div className="article-container">
-                <img src="./assets/project-2.png"
+                <img src="./assets/spotify_clone.png"
                   alt="Project 2"
                   className="project-img" />
               </div>
-              <h2 className="experience-sub-title project-title">Project Two</h2>
+              <h2 className="experience-sub-title project-title">Spotify Clone</h2>
               <div className="btn-container">
-                <Link href={"https://github.com/"}>
+                <Link href={"https://github.com/NicWYZ/Nicolas-s-Spotify-Clone"}>
                   <button className="btn btn-color-2 project-btn">
                     Github
                   </button>
                 </Link>
-                <Link href={"https://github.com/"}>
+                <Link href={"https://nicolas-s-spotify-clone.vercel.app/"}>
                   <button className="btn btn-color-2 project-btn">
                     Live Demo
                   </button>

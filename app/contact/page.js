@@ -35,7 +35,7 @@ export default function Contact() {
             <img src="./assets/linkedin.png"
               alt="LinkedIn icon"
               className="icon contact-icon" />
-            <p><a href="https://linkedin.com/in/weiyang-zhang-2a559821b">
+            <p><a href="https://www.linkedin.com/in/nicolas-zhang-2a559821b/">
               LinkedIn
             </a></p>
           </div>
