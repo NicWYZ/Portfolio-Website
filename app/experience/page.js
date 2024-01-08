@@ -19,28 +19,42 @@ export default function Experience() {
                   <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
                   <div>
                     <h3>HTML</h3>
-                    <p>Learning</p>
+                    <p>Intermediate</p>
                   </div>
                 </article>
                 <article>
                   <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
                   <div>
                     <h3>CSS</h3>
-                    <p>Learning</p>
+                    <p>Intermediate</p>
                   </div>
                 </article>
                 <article>
                   <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
                   <div>
                     <h3>JavaScript</h3>
-                    <p>Learning</p>
+                    <p>Intermediate</p>
                   </div>
                 </article>
                 <article>
                   <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
                   <div>
                     <h3>Next.JS</h3>
-                    <p>Learning</p>
+                    <p>Intermediate</p>
+                  </div>
+                </article>
+                <article>
+                  <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
+                  <div>
+                    <h3>TypeScript</h3>
+                    <p>Intermediate</p>
+                  </div>
+                </article>
+                <article>
+                  <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
+                  <div>
+                    <h3>Tailwind CSS</h3>
+                    <p>Intermediate</p>
                   </div>
                 </article>
               </div>
@@ -52,28 +66,21 @@ export default function Experience() {
                   <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
                   <div>
                     <h3>Java</h3>
-                    <p>Learning</p>
+                    <p>Intermediate</p>
                   </div>
                 </article>
                 <article>
                   <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
                   <div>
-                    <h3>Git</h3>
-                    <p>Learning</p>
+                    <h3>Stripe</h3>
+                    <p>Intermediate</p>
                   </div>
                 </article>
                 <article>
                   <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
                   <div>
                     <h3>Supabase</h3>
-                    <p>Learning</p>
-                  </div>
-                </article>
-                <article>
-                  <img src="./assets/checkmark.png" alt="Experience icon" className="icon" />
-                  <div>
-                    <h3>Python</h3>
-                    <p>Learning</p>
+                    <p>Intermediate</p>
                   </div>
                 </article>
               </div>

@@ -31,12 +31,12 @@ export default function About() {
               <div className="details-container">
                 <img src="./assets/experience.png" alt="Experience icon" className="icon" />
                 <h3>Experience</h3>
-                <p>1+ months <br/>Frontend Development</p>
+                <p>4+ months <br/>Full-Stack Development</p>
               </div>
               <div className="details-container">
                 <img src="./assets/education.png" alt="Education icon" className="icon" />
                 <h3>Education</h3>
-                <p>Student in Computer Science <br/>UNC Chapel Hill</p>
+                <p>Student in Computer Science and Statistics<br/>UNC Chapel Hill</p>
               </div>
             </div>
             <div className="text-container">
