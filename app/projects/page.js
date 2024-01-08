@@ -36,7 +36,7 @@ export default function Projects() {
             </div>
             <div className="details-container color-container">
               <div className="article-container">
-                <img src="./assets/spotify_clone.png"
+                <img src="./assets/spotify_screenshot.png"
                   alt="Project 2"
                   className="project-img" />
               </div>
