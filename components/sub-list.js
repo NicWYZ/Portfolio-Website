@@ -1,6 +1,6 @@
+
 import {createServerComponentClient} from "@supabase/auth-helpers-nextjs";
 import {cookies} from 'next/headers';
-import styles from "@/app/style.css"
 
 
 async function fetchSub(){
@@ -31,3 +31,4 @@ export default async function SubList(){
        </div>
    )
 }
+

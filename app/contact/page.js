@@ -1,9 +1,7 @@
 import Nav from "@/components/nav";
 import styles from "@/app/style.css"
-import Link from 'next/link';
 import Likebtn from '@/components/likebtn';
 import Footer from "@/components/footer";
-import SubList from "@/components/sub-list";
 import CreateSub from "@/components/create-sub";
 
 
@@ -18,7 +16,6 @@ export default function Contact() {
         
         <div className="contact-info-upper-container">
             <div className="contact-info-container"><CreateSub/></div>
-            <div className="sublist-container"><SubList/></div>
         </div>
        
 

@@ -54,7 +54,7 @@ export default function Home() {
             <Link href={"./assets/resume.pdf"}>
               <button className="btn btn-color-2">Resume</button>
             </Link>
-            <Link href={"./#contact"}>
+            <Link href={"./contact"}>
               <button className="btn btn-color-1">Contact Info</button>
             </Link>
           </div>

@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react";
 import Nav from "@/components/nav";
-import styles from "@/app/style.css"
 import Footer from "@/components/footer";
 
 
