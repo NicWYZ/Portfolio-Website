@@ -24,17 +24,17 @@ export default function About() {
         <h1 className="title">About Me</h1>
         <div className="section-container">
           <div className="section__pic-container">
-            <img src="./assets/IMG_7685.jpg" alt="Profile picture" className="about-pic" />
+            <img src="/assets/IMG_0813.JPG" alt="Profile picture" className="about-pic" />
           </div>
           <div className="about-details-container">
             <div className="about-containers">
               <div className="details-container">
-                <img src="./assets/experience.png" alt="Experience icon" className="icon" />
+                <img src="/assets/experience.png" alt="Experience icon" className="icon" />
                 <h3>Experience</h3>
                 <p>4+ months <br/>Full-Stack Development</p>
               </div>
               <div className="details-container">
-                <img src="./assets/education.png" alt="Education icon" className="icon" />
+                <img src="/assets/education.png" alt="Education icon" className="icon" />
                 <h3>Education</h3>
                 <p>Student in Computer Science and Statistics<br/>UNC Chapel Hill</p>
               </div>

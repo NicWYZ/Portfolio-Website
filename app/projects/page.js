@@ -16,7 +16,7 @@ export default function Projects() {
           <div className="about-containers">
             <div className="img-container color-container">
               <div className="article-container">
-                <img src="./assets/Project1_screenshot.png"
+                <img src="/assets/Project1_screenshot.png"
                   alt="Project 1"
                   className="project-img" />
               </div>
@@ -36,7 +36,7 @@ export default function Projects() {
             </div>
             <div className="img-container color-container">
               <div className="article-container">
-                <img src="./assets/spotify_screenshot.png"
+                <img src="/assets/spotify_screenshot.png"
                   alt="Project 2"
                   className="project-img" />
               </div>
@@ -56,7 +56,7 @@ export default function Projects() {
             </div>
             <div className="img-container color-container">
               <div className="article-container">
-                <img src="./assets/project-3.png"
+                <img src="/assets/project-3.png"
                   alt="Project 3"
                   className="project-img" />
               </div>
