@@ -44,7 +44,7 @@ export default function Home() {
 
       <section id="profile">
         <div className="section__pic-container">
-          <img src="./assets/IMG_0813.JPG" alt="Nicolas Zhang profile pic" className="pic"/>
+          <img src="./assets/IMG_0802.jpg" alt="Nicolas Zhang profile pic" className="pic"/>
           </div>
         <div className="section__text">
           <p className="section__text__p1">Hello, I'm</p>
